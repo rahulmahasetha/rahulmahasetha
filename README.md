@@ -11,55 +11,58 @@
 - 🤝 Open to collaboration on **Web Development & Open Source Projects**  
 
 ---
+## 🛠️ Tech Stack
 
-##  Tech Stack
-
-###  Languages
+### 💻 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&perline=6" height="50"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&perline=6&theme=dark" height="50"/>
 </p>
 <p align="left">C • C++ • Java • Python • JavaScript • TypeScript</p>
 
 ---
 
-###  Web Development (MERN)
+### 🌐 Web Development (MERN)
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&perline=4" height="50"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&perline=4&theme=dark" height="50"/>
 </p>
 <p align="left">MongoDB • Express • React • Node.js</p>
 
 ---
 
-###  Frontend
+### 🎨 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,nextjs&perline=5" height="50"/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,nextjs&perline=5&theme=dark" height="50"/>
 </p>
 <p align="left">HTML • CSS • Tailwind • Bootstrap • Next.js</p>
 
 ---
 
-###  Backend & Tools
+### ⚙️ Backend & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=django,fastapi,firebase,docker&perline=4" height="50"/>
+  <img src="https://skillicons.dev/icons?i=django,fastapi,firebase,docker&perline=4&theme=dark" height="50"/>
 </p>
 <p align="left">Django • FastAPI • Firebase • Docker</p>
 
 ---
 
-###  Databases
+### 🗄️ Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&perline=3" height="50"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&perline=3&theme=dark" height="50"/>
 </p>
 <p align="left">MySQL • PostgreSQL • MongoDB</p>
 
 ---
 
-###  Tools & Platforms
+### 🧰 Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,linux,ubuntu,vscode&perline=4" height="50"/>
+  <img src="https://skillicons.dev/icons?i=git,linux,ubuntu,vscode&perline=4&theme=dark" height="50"/>
 </p>
 <p align="left">Git • Linux • Ubuntu • VS Code</p>
+
 ---
+
+## Contact Me
+
 <table align="center">
 <tr>
 <td align="center">
@@ -67,7 +70,6 @@
 <img src="https://skillicons.dev/icons?i=github" height="40"/><br/>GitHub
 </a>
 </td>
-
 <td align="center">
 <a href="https://www.linkedin.com/in/rahul-mahaseth-37651b291">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/><br/>LinkedIn
