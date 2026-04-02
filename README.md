@@ -59,13 +59,15 @@
 
 ---
 
+<hr style="border: none; height: 2px; background: linear-gradient(to right, #00f7ff, #ff00ff);" />
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahulmahasetha&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulmahasetha&theme=radical" width="48%" />
 </p>
 
----
+<hr style="border: none; height: 2px; background: linear-gradient(to right, #00f7ff, #ff00ff);" />
 
 ## 📫 Contact Me
 
@@ -80,6 +82,8 @@
     <img src="https://skillicons.dev/icons?i=gmail" height="40" /><br>Email
   </a>
 </p>
+
+<hr style="border: none; height: 2px; background: linear-gradient(to right, #00f7ff, #ff00ff);" />
 
 ---
 
