@@ -12,52 +12,42 @@
 
 ---
 
-<p align="left">
-  <a href="https://github.com/rahulmahasetha" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/rahul-mahaseth-37651b291" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
-  </a>
-
-  <a href="mailto:rahulmahaseth700@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40"/>
-  </a>
-</p>
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" /><br>
+C • C++ • Java • Python • JavaScript • TypeScript
 </p>
 
 ### 🌐 Web Development (MERN)
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" /><br>
+MongoDB • Express • React • Node.js
 </p>
 
 ### 🎨 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,nextjs" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,nextjs" /><br>
+HTML • CSS • Tailwind • Bootstrap • Next.js
 </p>
 
 ### ⚙️ Backend & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=django,fastapi,firebase,docker" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=django,fastapi,firebase,docker" /><br>
+Django • FastAPI • Firebase • Docker
 </p>
 
 ### 🗄️ Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" /><br>
+MySQL • PostgreSQL • MongoDB
 </p>
 
 ### 🧰 Tools & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=git,linux,ubuntu,vscode" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,linux,ubuntu,vscode" /><br>
+Git • Linux • Ubuntu • VS Code
 </p>
 
 ---
@@ -76,6 +66,24 @@
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulmahasetha&theme=radical" />
+</p>
+
+---
+
+## 📫 Contact Me
+
+<p align="center">
+  <a href="https://github.com/rahulmahasetha" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" /><br>GitHub
+  </a>
+  
+  <a href="https://www.linkedin.com/in/rahul-mahaseth-37651b291" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" /><br>LinkedIn
+  </a>
+
+  <a href="mailto:rahulmahaseth700@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" /><br>Email
+  </a>
 </p>
 
 ---
