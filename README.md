@@ -51,40 +51,27 @@
 <p align="left">Git • Linux • Ubuntu • VS Code</p>
 
 ---
+<table align="center">
+<tr>
+<td align="center">
+<a href="https://github.com/rahulmahasetha">
+<img src="https://skillicons.dev/icons?i=github" height="40"/><br/>GitHub
+</a>
+</td>
 
-## 🚀 Projects
-- ✈️ **Flight Booking System** – Django + MySQL  
-- 📱 **Spelling Scramble App** – Flutter  
-- 🌐 **MERN Stack Web Applications** – Full-stack projects  
+<td align="center">
+<a href="https://www.linkedin.com/in/rahul-mahaseth-37651b291">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/><br/>LinkedIn
+</a>
+</td>
 
----
-
-<hr style="border: none; height: 2px; background: linear-gradient(to right, #00f7ff, #ff00ff);" />
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulmahasetha&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulmahasetha&theme=radical" width="48%" />
-</p>
-
-<hr style="border: none; height: 2px; background: linear-gradient(to right, #00f7ff, #ff00ff);" />
-
-## 📫 Contact Me
-
-<p align="center">
-  <a href="https://github.com/rahulmahasetha" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40" /><br>GitHub
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/rahul-mahaseth-37651b291" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" /><br>LinkedIn
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:rahulmahaseth700@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" /><br>Email
-  </a>
-</p>
-
-<hr style="border: none; height: 2px; background: linear-gradient(to right, #00f7ff, #ff00ff);" />
-
+<td align="center">
+<a href="mailto:rahulmahaseth700@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/><br/>Email
+</a>
+</td>
+</tr>
+</table>
 ---
 
 ## ⚡ Fun Fact
