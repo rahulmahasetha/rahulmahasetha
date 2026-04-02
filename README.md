@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Mahaseth</h1>
-<h3 align="center">🚀 MERN Stack Developer | CSE Student | Problem Solver</h3>
+<h3 align="center"> MERN Stack Developer | CSE Student | Problem Solver</h3>
 
 ---
 
@@ -12,44 +12,53 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 💻 Languages
+###  Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" height="40" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&perline=6" height="50"/>
 </p>
 <p align="left">C • C++ • Java • Python • JavaScript • TypeScript</p>
 
-### 🌐 Web Development (MERN)
+---
+
+###  Web Development (MERN)
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" height="40" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&perline=4" height="50"/>
 </p>
 <p align="left">MongoDB • Express • React • Node.js</p>
 
-### 🎨 Frontend
+---
+
+###  Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,nextjs" height="40" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,nextjs&perline=5" height="50"/>
 </p>
 <p align="left">HTML • CSS • Tailwind • Bootstrap • Next.js</p>
 
-### ⚙️ Backend & Tools
+---
+
+###  Backend & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=django,fastapi,firebase,docker" height="40" />
+  <img src="https://skillicons.dev/icons?i=django,fastapi,firebase,docker&perline=4" height="50"/>
 </p>
 <p align="left">Django • FastAPI • Firebase • Docker</p>
 
-### 🗄️ Databases
+---
+
+###  Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" height="40" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&perline=3" height="50"/>
 </p>
 <p align="left">MySQL • PostgreSQL • MongoDB</p>
 
-### 🧰 Tools & Platforms
+---
+
+###  Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,linux,ubuntu,vscode" height="40" />
+  <img src="https://skillicons.dev/icons?i=git,linux,ubuntu,vscode&perline=4" height="50"/>
 </p>
 <p align="left">Git • Linux • Ubuntu • VS Code</p>
-
 ---
 <table align="center">
 <tr>
@@ -72,7 +81,7 @@
 </td>
 </tr>
 </table>
----
 
-## ⚡ Fun Fact
+
+##  Fun Fact
 I turn ☕ coffee into code and ideas into real products 🚀
